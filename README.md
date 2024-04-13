@@ -32,4 +32,4 @@ For support, email speculatortech.dev@gmail.com
 You can donate the cost of coffee to us to help us develop new things.
 - Buy Me a Coffee: https://www.buymeacoffee.com/speculatortech
 - Tipme: https://tipme.in.th/speculatortech (Thai Only)
-![alt text](https://github.com/SpeculatorTech/Ultimate-Rectangle-for-MT5/tree/main/src/logo_donate.png?raw=true)
+![logo_donate](https://github.com/SpeculatorTech/Ultimate-Rectangle-for-MT5/assets/104503579/2d721be8-7359-49db-8bf5-017c25bf69ec)
