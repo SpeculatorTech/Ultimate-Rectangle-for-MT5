@@ -20,8 +20,7 @@ Ultimate Reatangle สำหรับ MT5 ตัวบ่งชี้(Mod) ส�
 - Step3 - Use "Rectangle" as usual, Colors and more can be customized in the indicator settings.
 ## Screenshots
 
-![alt text](https://github.com/SpeculatorTech/Ultimate-Rectangle-for-MT5/tree/main/src/ur_gif-ezgif.com-resize-r.gif?raw=true)
-
+![ur_r](https://github.com/SpeculatorTech/Ultimate-Rectangle-for-MT5/assets/104503579/8c20beb5-163d-4571-8ac2-561ea1b71985)
 
 ## Support
 
