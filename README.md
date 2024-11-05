@@ -1,11 +1,11 @@
-# Ultimate Reatangle for MT5
+# ST Ultimate Reatangle for MT5
 
 Ultimate Reatangle for MT5 Indicator upgrades the normal Rectangle to display Fill along with Border Color. It makes it easier to identify key trading areas and can also display the "Right Price Lable" also shows prices between the upper and lower bounds. Traders can customize the colors and more as needed. It is a useful tool for developing strategies and making trading decisions. Overall, it makes it easy to observe price levels. important and greatly enhance trading efficiency.
 
 Ultimate Reatangle สำหรับ MT5 สำหรับอัปเกรด Rectangle ธรรมดาให้สามารถแสดงสี Fill และ Border มันทำให้ง่ายต่อการระบุพื้นที่สำคัญของการซื้อขายและยังสามารถแสดง Right Price Lable แสดงราคาระหว่างกรอบบนและล่างได้อีกด้วยโดยนักเทรดสามารถปรับแต่งสีและอื่นๆได้ตามต้องการเป็นเครื่องมือที่ช่วยในการพัฒนากลยุทธ์และการตัดสินใจในการเทรด โดยรวมแล้ว มันทำให้ง่ายต่อการสังเกตระดับราคาสำคัญ และเสริมประสิทธิภาพในการเทรดได้อย่างมาก
 
 
-## Features V1.2
+## Features V2.0
 
 - Rectangle can be filled with color and border color.
 - Display prices between zones.
@@ -24,7 +24,7 @@ Ultimate Reatangle สำหรับ MT5 สำหรับอัปเกร�
 
 ## Support
 
-For support, email speculatortech.dev@gmail.com
+For support, email speculatortech@hotmail.com
 
 
 ## Donation
